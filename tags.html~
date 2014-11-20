@@ -10,7 +10,7 @@ group: navigation
   {% assign tags_list = site.tags %}  
   {% include JB/tags_list %}
 </ul>
-<div>&nbsp;</div>
+
 <div class = "card">
 {% for tag in site.tags %} 
 
