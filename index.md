@@ -6,6 +6,7 @@ tagline: 紫瞳之仁的博客
 {% include JB/setup %}
 
 {% for post in site.posts %}
+<div> &nbsp;</div>
 <div class = "card">
 		<div  class = "date_label">
 			<div class="day_month">
