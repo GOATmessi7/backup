@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>紫瞳之仁</title>
+        <description>紫瞳之仁 - 刘大局</description>
+        <link>http://liusongtao.tk</link>
+        <link>http://liusongtao.tk</link>
+        <lastBuildDate>2014-11-20T15:27:42+08:00</lastBuildDate>
+        <pubDate>2014-11-20T15:27:42+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>重新搭建</title>
+                <description>&lt;h1&gt;重新搭建&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;　　今天找到一个不错的Jekyll主题，就重新搭建了一下，分类和评论什么的都内置好了的，哎，别人做好的东西拿过来用就是爽啊．．&lt;br/&gt;
+　　不过原模板的作者找不到了，我fork的也是别人拿着改过的版本，干脆不标明作者了吧．．．就在这默默感谢他的贡献了.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+</description>
+                <link>http://liusongtao.tk/2014/11/20/rebuild</link>
+                <guid>http://liusongtao.tk/2014/11/20/rebuild</guid>
+                <pubDate>2014-11-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Rainy Mood</title>
+                <description>&lt;h1&gt;Rainy Mood&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;　　这篇主要是测试一下图片和链接，顺带也推荐一个超级棒的网站：Rainy Mood，我大一那会刚见到这网站真是惊艳哭了，特别是来了北京这特么一年也不见得下几场雨的鸟地方，能听到这么安静的雨声真是勾起浓浓的思乡情怀啊！&lt;/p&gt;
+
+&lt;h3&gt;网站在这：&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.rainymood.com/&quot; target=&quot;_blank&quot;&gt;戳我戳我&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;再附一张图片吧：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/image/rainy-day-images-.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+</description>
+                <link>http://liusongtao.tk/2014/11/20/rainymood</link>
+                <guid>http://liusongtao.tk/2014/11/20/rainymood</guid>
+                <pubDate>2014-11-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>搭了个窝</title>
+                <description>&lt;h1&gt;搭了个窝&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;　　真不容易啊，网上找了半天，试了好多个办法都或多或少有点问题，最后还是在githup上直接fork了一个现成的自己拿过来改改，好歹是能写了．貌似预览只能阅读第一段啊，我了个去．．多打点字测试一下，打什么字呢．．．特么要我凭空说废话也真是难啊，前几天看完了北平无战事，真是太好看了，那晚上看到第二天６点半看完的，本来说看完要写剧评的，拖拖拉拉又不晓得何时能写出来，不过看完之后感触最深的就是人应该有一个大格局，骤然临之而不惊，无故加之而不怒，此其所挟持者甚大,而其志甚远也．这几年好好磨练自己吧，废了这么多话应该差不多了，重新上传看看效果．&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+
+&lt;h2&gt;测试一下小标题&lt;/h2&gt;
+
+&lt;p&gt;　　以后写东西就放这，但是肯定没几个熟人能来看啊．．．我ＴＭ还得想办法打个广告什么的，就冲我这牛Ｂ的域名，嗯．．在这里要感谢嗜菊症患者引进的ＴＫ顶级域名啊，撸了这么久的坦克时间，居然还有ＴＫ的域名给我耍耍，感觉不要太好了！&lt;/p&gt;
+
+&lt;p&gt;　　还有好多功能应该要加进来的，比如分类啊，评论啊&lt;br/&gt;
+　　
+　　还有这个界面也不怎么好看．．．想改得大气点．．暂时还不会．．&lt;/p&gt;
+
+&lt;p&gt;　　得，先写这么多，继续修改了．先把首页样子改了再说．．．&lt;/p&gt;
+
+&lt;h2&gt;特么用个插件真是不容易&lt;/h2&gt;
+
+&lt;p&gt;　　我就奇怪之前自己写好的东西在本地运行的好好的，一上传github就说我有&quot;Unkown tag&quot;，原来用jekyll的插件github是不加载的，得自己重新再建一个分支，编译好了之后拖进master才行．．．ＮＮＤ搞了我半天，差点忘了跟女神聊天...&lt;/p&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/19/helloword</link>
+                <guid>http://liusongtao.tk/2014/11/19/helloword</guid>
+                <pubDate>2014-11-19T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
