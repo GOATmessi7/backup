@@ -40,8 +40,11 @@
     <div class="navbar">
       <div class="navbar-inner">
        <div class="nav-narrow">
-          <a class="brand" href="{{ HOME_PATH }}"><span class="fa fa-mortar-board (alias)">{{ site.title }}</span></a>
+          <a class="brand" href="{{ HOME_PATH }}"><span class="fa fa-mortar-board (alias)">{{ site.title }}</span><div style="text-indent: 2em"><h6>骤然临之而不惊 &nbsp;&nbsp;无故加之而不怒</h6></div></a>
+	  <div>&nbsp;</div>
+
           <ul class="nav">
+	 
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
