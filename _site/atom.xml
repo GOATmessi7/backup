@@ -4,7 +4,7 @@
  <title>紫瞳之仁</title>
  <link href="http://liusongtao.tk/" rel="self"/>
  <link href="http://liusongtao.tk"/>
- <updated>2014-11-22T01:48:55+08:00</updated>
+ <updated>2014-11-22T01:58:44+08:00</updated>
  <id>http://liusongtao.tk</id>
  <author>
    <name>刘大局</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Futureplan</title>
+   <title>近期规划</title>
    <link href="http://liusongtao.tk/2014/11/22/futureplan"/>
    <updated>2014-11-22T00:00:00+08:00</updated>
    <id>http://liusongtao.tk/2014/11/22/futureplan</id>
@@ -22,21 +22,25 @@
 &lt;hr /&gt;
 
 &lt;p&gt;　　今天本来要开始写台大一个大作业的，突然发现自己原来看错它的截止日期了，实际要12月1号才交，瞬间就没有开写的动力了．．=_=..&lt;br/&gt;
-　　最近很多课程都快结课了，所以要开始筹划一下接下来学习的方向了，趁着第一年实验室的活不多的机会，赶紧多充实一下自己，下面理一理计划了：&lt;br/&gt;
-* python入门的课程已经学完了，游戏也写了好几个，要开始学它数据处理的部分了，今天特意看了很多国内国外论坛里的说法，最后还是决定先暂时放弃Ｒ的学习了，毕竟Ｒ只是一门统计的语言，我用python要完成的事估计要多得多．嗯．．先列几个资源，我还没决定好先看哪个．．&lt;/p&gt;
-
-&lt;p&gt;　　　　第一个就在我微博里有，主要是爬虫和数据挖掘的．感觉目前用不到&lt;/p&gt;
-
-&lt;p&gt;　　　　第二个是&lt;a href=&quot;http://sebug.net/paper/books/scipydoc/index.html&quot;&gt;用Python做科学计算&lt;/a&gt;，里面的基础篇主要讲了几个重要的软件包的用法，这个非常基础，适合先入手&lt;/p&gt;
-
-&lt;p&gt;　　　　第三个也差不多，是一个介绍机器学习软件包使用的，可以结合着课程一块看了，&lt;a href=&quot;http://scikit-learn.org/stable/index.html&quot;&gt;地址&lt;/a&gt;&lt;/p&gt;
+　　最近很多课程都快结课了，所以要开始筹划一下接下来学习的方向了，趁着第一年实验室的活不多的机会，赶紧多充实一下自己，下面理一理计划了：&lt;/p&gt;
 
 &lt;!--break--&gt;
 
 
 &lt;ul&gt;
+&lt;li&gt;python入门的课程已经学完了，游戏也写了好几个，要开始学它数据处理的部分了，今天特意看了很多国内国外论坛里的说法，最后还是决定先暂时放弃Ｒ的学习了，毕竟Ｒ只是一门统计的语言，我用python要完成的事估计要多得多．嗯．．先列几个资源，我还没决定好先看哪个．．&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;　　　　第一个就在我微博里有，主要是爬虫和数据挖掘的．感觉目前用不到&lt;/p&gt;
+
+&lt;p&gt;　　　　第二个是&lt;a href=&quot;http://sebug.net/paper/books/scipydoc/index.html&quot; target=&quot;_blank&quot;&gt;用Python做科学计算&lt;/a&gt;，里面的基础篇主要讲了几个重要的软件包的用法，这个非常基础,可以先看&lt;/p&gt;
+
+&lt;p&gt;　　　　第三个也差不多，是一个介绍机器学习软件包使用的，可以结合着课程一块看了，&lt;a href=&quot;http://scikit-learn.org/stable/index.html&quot; target=&quot;_blank&quot;&gt;地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;斯坦福的算法课第一部分也快完了，这个没什么好说的，接着上第二部分就是．．想吐槽一下上周那个程序题，ＴＮＮＤ给了一个八百万个顶点的图的数据，老子机子差点没跑起来．．不过也看出Python在性能方面还是差C++不少的，如果不用Cpython的话．．（其实我就是不会用)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;最后就是之前小老板布置的要看Deep Learning了．．卧槽这么难的玩意一时半会怎么搞得定．．．先找了Coursera上面一个基础的课程，然后惊喜的发现我之前收藏过LISA实验室放出来的深度学习资料，而且还是用python写的！！哈哈哈哈．．．以后有得东西可看了．．东西我直接仍Dropbox上了，&lt;a href=&quot;http://deeplearning.net/tutorial/deeplearning.pdf&quot;&gt;地址&lt;/a&gt;　&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;最后就是之前小老板布置的要看Deep Learning了．．卧槽这么难的玩意一时半会怎么搞得定．．．先找了Coursera上面一个基础的课程，然后惊喜的发现我之前收藏过LISA实验室放出来的深度学习资料，而且还是用python写的！！哈哈哈哈．．．以后有得东西可看了．．东西我直接仍Dropbox上了，&lt;a href=&quot;http://deeplearning.net/tutorial/deeplearning.pdf&quot; target=&quot;_blank&quot;&gt;地址&lt;/a&gt;　&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>
