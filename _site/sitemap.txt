@@ -8,6 +8,7 @@ http://liusongtao.tk/rss.xml
 http://liusongtao.tk/sitemap.txt
 http://liusongtao.tk/tags.html
 
+http://liusongtao.tk/2014/11/22/futureplan
 http://liusongtao.tk/2014/11/20/rebuild
 http://liusongtao.tk/2014/11/20/rainymood
 http://liusongtao.tk/2014/11/19/helloword
