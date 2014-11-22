@@ -4,7 +4,7 @@
  <title>紫瞳之仁</title>
  <link href="http://liusongtao.tk/" rel="self"/>
  <link href="http://liusongtao.tk"/>
- <updated>2014-11-22T01:58:44+08:00</updated>
+ <updated>2014-11-22T22:54:50+08:00</updated>
  <id>http://liusongtao.tk</id>
  <author>
    <name>刘大局</name>
@@ -13,10 +13,28 @@
 
  
  <entry>
-   <title>近期规划</title>
-   <link href="http://liusongtao.tk/2014/11/22/futureplan"/>
+   <title>晒证书</title>
+   <link href="http://liusongtao.tk/2014/11/22/certification"/>
    <updated>2014-11-22T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/22/futureplan</id>
+   <id>http://liusongtao.tk/2014/11/22/certification</id>
+   <content type="html">&lt;h1&gt;啊哈！晒证书啦！&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;　　啦啦啦！历时９周的Python逗比游戏课结束了，到了晒证书的时候了！这可是花了49刀的实名认证证书！！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/image/certification.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>近期规划</title>
+   <link href="http://liusongtao.tk/2014/11/21/futureplan"/>
+   <updated>2014-11-21T00:00:00+08:00</updated>
+   <id>http://liusongtao.tk/2014/11/21/futureplan</id>
    <content type="html">&lt;h1&gt;近期规划&lt;/h1&gt;
 
 &lt;hr /&gt;
