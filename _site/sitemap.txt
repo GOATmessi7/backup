@@ -8,6 +8,7 @@ http://liusongtao.tk/rss.xml
 http://liusongtao.tk/sitemap.txt
 http://liusongtao.tk/tags.html
 
+http://liusongtao.tk/2014/11/28/girl
 http://liusongtao.tk/2014/11/27/SHE
 http://liusongtao.tk/2014/11/22/certification
 http://liusongtao.tk/2014/11/21/futureplan
