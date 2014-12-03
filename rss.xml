@@ -1,38 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>紫瞳之仁</title>
- <link href="http://liusongtao.tk/" rel="self"/>
- <link href="http://liusongtao.tk"/>
- <updated>2014-12-03T20:48:33+08:00</updated>
- <id>http://liusongtao.tk</id>
- <author>
-   <name>刘大局</name>
-   <email>ruinmessi@gmail.com</email>
- </author>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>紫瞳之仁</title>
+        <description>紫瞳之仁 - 刘大局</description>
+        <link>http://liusongtao.tk</link>
+        <link>http://liusongtao.tk</link>
+        <lastBuildDate>2014-12-03T20:56:26+08:00</lastBuildDate>
+        <pubDate>2014-12-03T20:56:26+08:00</pubDate>
+        <ttl>1800</ttl>
 
- 
- <entry>
-   <title>女神</title>
-   <link href="http://liusongtao.tk/2014/11/28/girl"/>
-   <updated>2014-11-28T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/28/girl</id>
-   <content type="html">&lt;h1&gt;女神太好怎么办&lt;/h1&gt;
+
+        <item>
+                <title>女神</title>
+                <description>&lt;h1&gt;女神太好怎么办&lt;/h1&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;　　连着几天的低情绪被昨晚女神一下子治好了，擦擦擦，怎么办怎么办，感觉这么下去我要动感情了？！&lt;/p&gt;
 
 &lt;p&gt;　　要克制。。克制。。&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>又是今天？</title>
-   <link href="http://liusongtao.tk/2014/11/27/SHE"/>
-   <updated>2014-11-27T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/27/SHE</id>
-   <content type="html">&lt;h1&gt;今天&lt;/h1&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/28/girl</link>
+                <guid>http://liusongtao.tk/2014/11/28/girl</guid>
+                <pubDate>2014-11-28T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>又是今天？</title>
+                <description>&lt;h1&gt;今天&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -52,15 +47,15 @@
 
 
 &lt;p&gt;　　最后，不管看得见看不见，生日快乐&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>晒证书</title>
-   <link href="http://liusongtao.tk/2014/11/22/certification"/>
-   <updated>2014-11-22T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/22/certification</id>
-   <content type="html">&lt;h1&gt;啊哈！晒证书啦！&lt;/h1&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/27/SHE</link>
+                <guid>http://liusongtao.tk/2014/11/27/SHE</guid>
+                <pubDate>2014-11-27T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>晒证书</title>
+                <description>&lt;h1&gt;啊哈！晒证书啦！&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -70,15 +65,15 @@
 
 &lt;!--break--&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>近期规划</title>
-   <link href="http://liusongtao.tk/2014/11/21/futureplan"/>
-   <updated>2014-11-21T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/21/futureplan</id>
-   <content type="html">&lt;h1&gt;近期规划&lt;/h1&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/22/certification</link>
+                <guid>http://liusongtao.tk/2014/11/22/certification</guid>
+                <pubDate>2014-11-22T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>近期规划</title>
+                <description>&lt;h1&gt;近期规划&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -104,15 +99,15 @@
 &lt;li&gt;&lt;p&gt;最后就是之前小老板布置的要看Deep Learning了．．卧槽这么难的玩意一时半会怎么搞得定．．．先找了Coursera上面一个基础的课程，然后惊喜的发现我之前收藏过LISA实验室放出来的深度学习资料，而且还是用python写的！！哈哈哈哈．．．以后有得东西可看了．．东西我直接仍Dropbox上了，&lt;a href=&quot;http://deeplearning.net/tutorial/deeplearning.pdf&quot; target=&quot;_blank&quot;&gt;地址&lt;/a&gt;　&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>重新搭建</title>
-   <link href="http://liusongtao.tk/2014/11/20/rebuild"/>
-   <updated>2014-11-20T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/20/rebuild</id>
-   <content type="html">&lt;h1&gt;重新搭建&lt;/h1&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/21/futureplan</link>
+                <guid>http://liusongtao.tk/2014/11/21/futureplan</guid>
+                <pubDate>2014-11-21T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>重新搭建</title>
+                <description>&lt;h1&gt;重新搭建&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -121,15 +116,15 @@
 
 &lt;!--break--&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Rainy Mood</title>
-   <link href="http://liusongtao.tk/2014/11/20/rainymood"/>
-   <updated>2014-11-20T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/20/rainymood</id>
-   <content type="html">&lt;h1&gt;Rainy Mood&lt;/h1&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/20/rebuild</link>
+                <guid>http://liusongtao.tk/2014/11/20/rebuild</guid>
+                <pubDate>2014-11-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Rainy Mood</title>
+                <description>&lt;h1&gt;Rainy Mood&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -145,15 +140,15 @@
 
 &lt;!--break--&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>搭了个窝</title>
-   <link href="http://liusongtao.tk/2014/11/19/helloword"/>
-   <updated>2014-11-19T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/19/helloword</id>
-   <content type="html">&lt;h1&gt;搭了个窝&lt;/h1&gt;
+</description>
+                <link>http://liusongtao.tk/2014/11/20/rainymood</link>
+                <guid>http://liusongtao.tk/2014/11/20/rainymood</guid>
+                <pubDate>2014-11-20T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>搭了个窝</title>
+                <description>&lt;h1&gt;搭了个窝&lt;/h1&gt;
 
 &lt;hr /&gt;
 
@@ -175,8 +170,12 @@
 &lt;h2&gt;特么用个插件真是不容易&lt;/h2&gt;
 
 &lt;p&gt;　　我就奇怪之前自己写好的东西在本地运行的好好的，一上传github就说我有&quot;Unkown tag&quot;，原来用jekyll的插件github是不加载的，得自己重新再建一个分支，编译好了之后拖进master才行．．．ＮＮＤ搞了我半天，差点忘了跟女神聊天...&lt;/p&gt;
-</content>
- </entry>
- 
- 
-</feed>
+</description>
+                <link>http://liusongtao.tk/2014/11/19/helloword</link>
+                <guid>http://liusongtao.tk/2014/11/19/helloword</guid>
+                <pubDate>2014-11-19T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
