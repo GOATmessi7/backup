@@ -3,10 +3,11 @@ deploy:
 	jekyll build
 	git add -A
 	git commit -m "update source"
-	cp -r _site/ /tmp/
+	cp -r _site/ ~/tmp/_site/
 	git checkout master
 	rm -r ./*
-	cp -r /tmp/_site/* ./
+	mkdir _site
+	cp -r ~/tmp/_site/* _site/
 	git add -A
 	git commit -m "deploy update"
 	git push origin master
