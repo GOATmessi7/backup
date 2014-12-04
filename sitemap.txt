@@ -8,6 +8,7 @@ http://liusongtao.tk/rss.xml
 http://liusongtao.tk/sitemap.txt
 http://liusongtao.tk/tags.html
 
+http://liusongtao.tk/2014/12/04/MyMac
 http://liusongtao.tk/2014/12/03/new
 http://liusongtao.tk/2014/11/28/girl
 http://liusongtao.tk/2014/11/27/SHE
