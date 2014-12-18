@@ -4,13 +4,39 @@
  <title>紫瞳之仁</title>
  <link href="http://liusongtao.tk/" rel="self"/>
  <link href="http://liusongtao.tk"/>
- <updated>2014-12-04T23:39:44+08:00</updated>
+ <updated>2014-12-19T00:54:22+08:00</updated>
  <id>http://liusongtao.tk</id>
  <author>
    <name>刘大局</name>
    <email>ruinmessi@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>近况</title>
+   <link href="http://liusongtao.tk/2014/12/19/python_stack"/>
+   <updated>2014-12-19T00:00:00+08:00</updated>
+   <id>http://liusongtao.tk/2014/12/19/python_stack</id>
+   <content type="html">&lt;h1&gt;近来状况&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;　　先骂下苹果那些个搞出Time Machine的工程师！毫无人性啊！！！你能想象我今天升级了Yosemite刚用了不到两个小时，结果发现磁盘空间被用了40多个G的心情么！！！尼玛全被这个鬼应用拿去做备份了啊！！！每小时给你备份一次整个磁盘啊！！！我要这么多备份干鬼啊！！！特么还删不了啊！！！卧槽！！也关不了啊！！！！妈的脑子都被驴踢了啊！！！？？最后在官网上找的回答，是说这块空间等你需要的时候就会给你腾出来，毛线啊！看着这么大块空间就这么没了这心情能好？？！！&lt;/p&gt;
+
+&lt;p&gt;　　骂完心情也没好多少，本来今天打算更新一篇Python有关的技术贴的，更新了系统之后Git要重新下，结果下了好久，闲着没事就被我发现了这么个幺蛾子，整个人都不好了&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+
+&lt;p&gt;　　不过我觉得还是简单说下本来要说的事吧，我今天用Python写一个SCC算法的时候，处理的图的数据大概是90万个左右，当时偷懒就把堆栈写成递归了，结果运行的时候首先Python报错说是递归溢出了，google了才知道Python是有最大递归次数限制的，当然你可以改的，加一句sys.setrecursionlimit(10000000)就行了。&lt;/p&gt;
+
+&lt;p&gt;　　但当我再运行的时候，这次Python直接报错退出了，显示的是[Errno 11]Resource temporarily unavailable，卧槽当时我心里一紧，莫非新买的Air连这么个小程序都跑不了？？&lt;/p&gt;
+
+&lt;p&gt;　　不过我想起以前在UBuntu下的时候，我有一次忘了是解决啥问题去了，用过终端的ulimit命令，这个命令是用来控制bash可以调用的系统资源的，我当时的想法当然是因为内存不足报的错啊，man了一下发现ulimit -s 32768就是把内存限制调到最大的（我就4G内存），Mac也有哈哈哈，这下终于跑成功了！&lt;/p&gt;
+
+&lt;p&gt;　　最后再感慨一下，递归这玩意就是看着炫，能偷懒，但实在太占资源了啊！明天手动写个堆的结构再试一下，感觉所需资源会小很多。&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>晒电脑</title>
@@ -55,21 +81,6 @@
 &lt;p&gt;　　今天已经接着上斯坦福的算法２了，Hinton大神的课也打算从周末开始看，最后就是对Python的继续学习，现在手头有现成的深度学习库，还有用作数据处理的教程，搞得我有点犹豫了，不过我想，我肯定还是要学数据挖掘的东西的，所以先看那个教程还是比较明智的吧，这个估计是慢慢来的，２０号的时候台大还有门课也要开了。。估计到时候没什么时间看Python了。。先这样吧。&lt;/p&gt;
 
 &lt;p&gt;　　恩，每天过的别开生面才不算失败！&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>女神</title>
-   <link href="http://liusongtao.tk/2014/11/28/girl"/>
-   <updated>2014-11-28T00:00:00+08:00</updated>
-   <id>http://liusongtao.tk/2014/11/28/girl</id>
-   <content type="html">&lt;h1&gt;女神太好怎么办&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;　　连着几天的低情绪被昨晚女神一下子治好了，擦擦擦，怎么办怎么办，感觉这么下去我要动感情了？！&lt;/p&gt;
-
-&lt;p&gt;　　要克制。。克制。。&lt;/p&gt;
 </content>
  </entry>
  
