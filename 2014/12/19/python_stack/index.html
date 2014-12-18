@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>新本本</title>
+    <title>近况</title>
     
     <meta name="author" content="刘大局">
 
@@ -115,7 +115,7 @@
         
 <!--
 <div class="page-header">
-  <h1>新本本 <small>Supporting tagline</small></h1>
+  <h1>近况 <small>Supporting tagline</small></h1>
 </div>
 -->
 <div>&nbsp;</div> 
@@ -126,28 +126,30 @@
     <div class="content card">
         <div class="date_label">
           <div class="day_month">
-          12/03
+          12/19
           </div>
           <div class="year">
           2014
           </div>
         </div>
-      <h1>新本本！</h1>
+      <h1>近来状况</h1>
 
 <hr />
 
-<p>　　哈哈，这几天一直没更新，真不是因为懒啊，主要是自己没忍住，还是入手了Air，这几天各种调试新机子，到今天算是用顺手啦！</p>
+<p>　　先骂下苹果那些个搞出Time Machine的工程师！毫无人性啊！！！你能想象我今天升级了Yosemite刚用了不到两个小时，结果发现磁盘空间被用了40多个G的心情么！！！尼玛全被这个鬼应用拿去做备份了啊！！！每小时给你备份一次整个磁盘啊！！！我要这么多备份干鬼啊！！！特么还删不了啊！！！卧槽！！也关不了啊！！！！妈的脑子都被驴踢了啊！！！？？最后在官网上找的回答，是说这块空间等你需要的时候就会给你腾出来，毛线啊！看着这么大块空间就这么没了这心情能好？？！！</p>
 
-<p>　　怎么说呢，编辑器搞了半天，最后还是放弃再重新配置Emacs的想法了，太麻烦了，现在直接用的Sublime，简单好用，又可以自己配置，算是一种中和吧。</p>
+<p>　　骂完心情也没好多少，本来今天打算更新一篇Python有关的技术贴的，更新了系统之后Git要重新下，结果下了好久，闲着没事就被我发现了这么个幺蛾子，整个人都不好了</p>
 
 <!--break-->
 
 
-<p>　　今天移动硬盘也来了，所以我基本把个人装备从头到尾换了一遍了，拿着这武装到牙齿的利器，必须得干出点什么！</p>
+<p>　　不过我觉得还是简单说下本来要说的事吧，我今天用Python写一个SCC算法的时候，处理的图的数据大概是90万个左右，当时偷懒就把堆栈写成递归了，结果运行的时候首先Python报错说是递归溢出了，google了才知道Python是有最大递归次数限制的，当然你可以改的，加一句sys.setrecursionlimit(10000000)就行了。</p>
 
-<p>　　今天已经接着上斯坦福的算法２了，Hinton大神的课也打算从周末开始看，最后就是对Python的继续学习，现在手头有现成的深度学习库，还有用作数据处理的教程，搞得我有点犹豫了，不过我想，我肯定还是要学数据挖掘的东西的，所以先看那个教程还是比较明智的吧，这个估计是慢慢来的，２０号的时候台大还有门课也要开了。。估计到时候没什么时间看Python了。。先这样吧。</p>
+<p>　　但当我再运行的时候，这次Python直接报错退出了，显示的是[Errno 11]Resource temporarily unavailable，卧槽当时我心里一紧，莫非新买的Air连这么个小程序都跑不了？？</p>
 
-<p>　　恩，每天过的别开生面才不算失败！</p>
+<p>　　不过我想起以前在UBuntu下的时候，我有一次忘了是解决啥问题去了，用过终端的ulimit命令，这个命令是用来控制bash可以调用的系统资源的，我当时的想法当然是因为内存不足报的错啊，man了一下发现ulimit -s 32768就是把内存限制调到最大的（我就4G内存），Mac也有哈哈哈，这下终于跑成功了！</p>
+
+<p>　　最后再感慨一下，递归这玩意就是看着炫，能偷懒，但实在太占资源了啊！明天手动写个堆的结构再试一下，感觉所需资源会小很多。</p>
 
     </div>
 
@@ -161,8 +163,8 @@
 
   
      
-    	<li><a href="/categories.html#得瑟-ref">
-    		得瑟 <span>3</span>
+    	<li><a href="/categories.html#python-ref">
+    		python <span>1</span>
     	</a></li>
     
   
@@ -180,7 +182,7 @@
 
   
      
-    	<li><a href="/tags.html#扯淡-ref">扯淡 <span>5</span></a></li>
+    	<li><a href="/tags.html#Python-ref">Python <span>1</span></a></li>
     
   
 
@@ -192,11 +194,11 @@
     <div class="pagination clearfix">
       <ul class = "pull-right">
       
-        <li class="prev"><a class="fa fa-arrow-circle-left" href="/2014/11/27/SHE" title="又是今天？"> 前一篇</a></li>
+        <li class="prev"><a class="fa fa-arrow-circle-left" href="/2014/12/04/MyMac" title="晒电脑"> 前一篇</a></li>
       
         <li><a class="fa fa-th" href="/archive.html"> 所有日志</a></li>
       
-        <li class="next"><a  href="/2014/12/04/MyMac" title="晒电脑">后一篇 <span class="fa fa-arrow-circle-right">  </span></a></li>
+        <li class="next disabled"><a >后一篇 <span class="fa fa-arrow-circle-right">  </span></a>
       
       </ul>
     </div>
